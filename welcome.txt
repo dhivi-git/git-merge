@@ -1,2 +1,3 @@
 Welcome to Git Training
 Author: Training Team
+Docs update from master branch
